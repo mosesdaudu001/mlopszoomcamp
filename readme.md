@@ -1,3 +1,1 @@
-This repo is for my first week
-
-seciond line
+This repo is for submitting my zoomcamp assignments.
