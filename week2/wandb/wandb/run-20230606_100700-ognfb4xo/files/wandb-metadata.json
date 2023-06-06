@@ -1,0 +1,64 @@
+{
+    "os": "Linux-5.19.0-43-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-06T09:07:37.150625",
+    "startedAt": "2023-06-06T09:07:00.388497",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "Intro_wandb.ipynb",
+    "root": "/home/moses/Documents/mlops-zoomcamp",
+    "git": {
+        "remote": "git@github.com:mosesdaudu001/mlopszoomcamp.git",
+        "commit": "d3683a93b099a5b802bda42a821fb55be76a54eb"
+    },
+    "email": "mosesdaudu001@gmail.com",
+    "host": "moses-Inspiron-5437",
+    "username": "moses",
+    "executable": "/home/moses/Documents/Jupyter/notebookenv/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2631.6537500000004,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2655.094,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2726.562,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2518.338,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2626.621,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 52.413291931152344
+    },
+    "gpu": "GeForce GT 750M",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "GeForce GT 750M",
+            "memory_total": 2099511296
+        }
+    ],
+    "memory": {
+        "total": 7.669563293457031
+    }
+}
