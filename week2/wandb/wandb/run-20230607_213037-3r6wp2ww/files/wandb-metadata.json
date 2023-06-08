@@ -1,0 +1,66 @@
+{
+    "os": "Linux-5.19.0-42-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-07T20:30:39.685260",
+    "startedAt": "2023-06-07T20:30:37.025728",
+    "docker": null,
+    "cuda": null,
+    "args": [
+        "--wandb_project",
+        "mlops-zoomcamp",
+        "--wandb_entity",
+        "mosesdaudu001",
+        "--raw_data_path",
+        "data",
+        "--dest_path",
+        "output"
+    ],
+    "state": "running",
+    "program": "/home/moses/Documents/mlops-zoomcamp/week2/wandb/preprocess_data.py",
+    "codePath": "week2/wandb/preprocess_data.py",
+    "git": {
+        "remote": "git@github.com:mosesdaudu001/mlopszoomcamp.git",
+        "commit": "e655323774bc5448495246e73ff7d3648fe54238"
+    },
+    "email": "mosesdaudu001@gmail.com",
+    "root": "/home/moses/Documents/mlops-zoomcamp",
+    "host": "moses-Inspiron-5437",
+    "username": "moses",
+    "executable": "/home/moses/Documents/Jupyter/notebookenv/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2703.4942499999997,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2704.171,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2704.933,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2699.206,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2705.667,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 53.325531005859375
+    },
+    "memory": {
+        "total": 7.6695556640625
+    }
+}

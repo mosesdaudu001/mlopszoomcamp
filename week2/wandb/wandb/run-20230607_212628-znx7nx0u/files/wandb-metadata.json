@@ -1,0 +1,56 @@
+{
+    "os": "Linux-5.19.0-42-generic-x86_64-with-glibc2.35",
+    "python": "3.10.6",
+    "heartbeatAt": "2023-06-07T20:26:39.873810",
+    "startedAt": "2023-06-07T20:26:28.536685",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "wandb_assignment.ipynb",
+    "root": "/home/moses/Documents/mlops-zoomcamp",
+    "git": {
+        "remote": "git@github.com:mosesdaudu001/mlopszoomcamp.git",
+        "commit": "e655323774bc5448495246e73ff7d3648fe54238"
+    },
+    "email": "mosesdaudu001@gmail.com",
+    "host": "moses-Inspiron-5437",
+    "username": "moses",
+    "executable": "/home/moses/Documents/Jupyter/notebookenv/bin/python",
+    "cpu_count": 2,
+    "cpu_count_logical": 4,
+    "cpu_freq": {
+        "current": 2809.7162500000004,
+        "min": 800.0,
+        "max": 3000.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2813.106,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2761.78,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2910.798,
+            "min": 800.0,
+            "max": 3000.0
+        },
+        {
+            "current": 2753.181,
+            "min": 800.0,
+            "max": 3000.0
+        }
+    ],
+    "disk": {
+        "total": 915.3232879638672,
+        "used": 53.30359649658203
+    },
+    "memory": {
+        "total": 7.6695556640625
+    }
+}
